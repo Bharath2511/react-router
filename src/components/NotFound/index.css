@@ -1,0 +1,16 @@
+.notfound-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notfound-image {
+  width: 200px;
+}
+
+.notfound-heading {
+  color: #551e53;
+  font-size: 50px;
+}
